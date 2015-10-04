@@ -4,4 +4,6 @@ Je modifie le fichier lisez-moi ... ... blabla
 blabla test en cour. un deux, un deux.
 blabla test en cour. un deux, un deux.
 
-lol.
+
+
+Texte ecris sur l'ordi.
